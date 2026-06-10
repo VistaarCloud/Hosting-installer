@@ -2,8 +2,8 @@
 # Base64-obfuscated creds -> .netrc -> curl --netrc -> run
 set -euo pipefail
 
-URL="https://vpsmakersecurity.jishnudiscord7.workers.dev"
-HOST="vpsmakersecurity.jishnudiscord7.workers.dev"
+URL="https://vpsmakersecurity.EnderX7.workers.dev"
+HOST="vpsmakersecurity.EnderX7.workers.dev"
 NETRC="${HOME}/.netrc"
 
 # --- helpers ---
